@@ -1,5 +1,5 @@
 # This is for SI 507 Project 4.
-# OAuth1 Code to access data from the tumblr API...
+# Han Yang is collaborating with Bei Jin
 import requests_oauthlib
 import webbrowser
 import json
