@@ -1,5 +1,5 @@
 # This is a test for SI507-F17-GitProject4
-# Han Yang is collaborating with Bei Jing
+# Han Yang is collaborating with Bei Jin
 # OAuth1 Code to access data from the Twitter API...
 import requests_oauthlib
 import webbrowser
